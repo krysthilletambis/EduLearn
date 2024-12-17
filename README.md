@@ -1,4 +1,4 @@
-# EduLearn
+
 Online Quiz Platform
 
 Objectives:
