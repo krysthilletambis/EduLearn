@@ -1,5 +1,4 @@
-
-Online Quiz Platform
+EduLearn: Online Quiz Platform
 
 Objectives:
 
